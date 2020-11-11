@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": "Bone sword",
+    "copy-from": "longsword",
+    "type": "WEAPON",
+    "name": { "str": "Bone Sword", "str_pl": "Bone Swords" },
+    "volume": "3000 ml",
+    "price": 100,
+    "to_hit": 5,
+    "bashing": 21,
+    "cutting": 67,
+    "material": [ "bone" ],
+    "color": "gray"
+ },
+ }
+]
