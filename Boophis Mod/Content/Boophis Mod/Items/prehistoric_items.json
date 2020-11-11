@@ -12,4 +12,17 @@
     "material": [ "bone" ],
     "color": "gray"
  },
+   {
+    "id": "Bone Hammer",
+    "copy-from": "sledgehammer",
+    "type": "WEAPON",
+    "name": { "str": "Bone Hammer", "str_pl": "Bone Hammer" },
+    "volume": "7000 ml",
+    "price": 3000,
+    "to_hit": 100,
+    "bashing": 600,
+    "cutting": 2,
+    "material": [ "bone" ],
+    "color": "gray"
+ },
 ]
