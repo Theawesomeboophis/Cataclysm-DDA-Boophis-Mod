@@ -1,1 +1,11 @@
-
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Boophis Mod",
+    "name": "Boophis Variety Mod",
+    "authors": [ "Theawesomeboophis" ],
+    "description": "Adds A Variety Of Content, Includes Prehistoric Mod Content ",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
