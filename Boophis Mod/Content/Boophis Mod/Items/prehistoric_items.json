@@ -16,7 +16,7 @@
     "id": "Bone Hammer",
     "copy-from": "sledgehammer",
     "type": "WEAPON",
-    "name": { "str": "Bone Hammer", "str_pl": "Bone Hammer" },
+    "name": { "str": "Bone Hammer", "str_pl": "Bone Hammers" },
     "volume": "7000 ml",
     "price": 3000,
     "to_hit": 100,
