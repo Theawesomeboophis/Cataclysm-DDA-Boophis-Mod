@@ -1,1 +1,12 @@
-
+[
+  {
+    "name": "GROUP_Prehistoric",
+    "type": "monstergroup",
+    "default": "mon_frog",
+    "monsters": [
+      { "monster": "mon_triadobatrachus", "freq": 100, "cost_multiplier": 0 },
+      { "monster": "mon_arachne", "freq": 200, "cost_multiplier": 0 },
+      { "monster": "mon_giant_sloth", "freq": 23, "cost_multiplier": 0 }
+    ]
+  },
+  ]
