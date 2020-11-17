@@ -2,7 +2,7 @@
   {
     "name": "GROUP_Prehistoric",
     "type": "monstergroup",
-    "default": "mon_frog",
+    "default": "mon_triadobatrachus",
     "monsters": [
       { "monster": "mon_triadobatrachus", "freq": 100, "cost_multiplier": 0 },
       { "monster": "mon_arachne", "freq": 200, "cost_multiplier": 0 },
