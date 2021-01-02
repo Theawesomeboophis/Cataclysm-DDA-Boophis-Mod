@@ -1,3 +1,4 @@
+[
 {
     "type": "MONSTER",
     "id": "mon_triadobatrachus",
@@ -31,5 +32,6 @@
     "harvest": "triadobatrachus",
     "anger_triggers": [ "PLAYER_WEAK", "HURT" ],
     "placate_triggers": [ "MEAT" ],
-    "categories": [ "Primal" ]
-  },
+    "categories": [ "Primal" ],
+  }
+]
