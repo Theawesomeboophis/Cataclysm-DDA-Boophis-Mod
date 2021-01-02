@@ -1,6 +1,6 @@
 [
   {
-    "id": "item_excalibur",
+    "id": "excalibur",
     "copy-from": "longsword",
     "type": "WEAPON",
     "name": { "str": "Excalibur" },
