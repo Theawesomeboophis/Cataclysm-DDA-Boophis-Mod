@@ -1,8 +1,9 @@
- {
-    "id": "Excalibur",
+[
+  {
+    "id": "item_excalibur",
     "copy-from": "longsword",
     "type": "WEAPON",
-    "name": { "str": "Excalibur", "str_pl": "Excalibur" },
+    "name": { "str": "Excalibur" },
     "volume": "7000 ml",
     "price": 3000,
     "to_hit": 7,
@@ -10,5 +11,5 @@
     "cutting": 6700,
     "material": [ "steel" ],
     "color": "gray"
- },
-  ]
+  }
+]
